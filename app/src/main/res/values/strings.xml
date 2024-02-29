@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice_3_mirea_task3</string>
+
+    <string name="str_order_congratulation">Вы приобрели: </string>
+    <string name="str_customer_introduction">Что бы вы хотели приобрести?</string>
+    <string name="str_customer_introduction_hint">Наименование товара</string>
+    <string name="str_choose_the_amount_button_text">Выбрать количество</string>
+    <string name="str_input_the_amount">Введите количество товара</string>
+    <string name="str_input_the_amount_hint">Количество товара</string>
+    <string name="str_buy_button_text">Заказать</string>
+    <string name="str_clean_button_text">Очистить</string>
+    <string name="str_chosen_good_warning">Наименование выбранного товара:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
